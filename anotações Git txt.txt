@@ -1,0 +1,38 @@
+o que é GitHub ?
+
+O que e GitHub para que serve?
+O GitHub é o maior repositório de dados compartilhado do mundo, com 28 milhões de usuários atualmente. É uma plataforma majoritariamente usada por desenvolvedores, pois permite uma hospedagem prática de código-fonte e arquivos em nuvem
+
+Qual Diferença entre Git GitHub?
+
+o Git é um software, o GitHub é uma plataforma onde você pode subir seus projetos, criar seu portfólio e compartilhá-lo com o mundo. O GitHub funciona usando o Git “por de baixo dos panos” para que devs possam desenvolver e atualizar os seus projetos sozinhos ou de forma colaborativa com outros devs.
+
+Como fazer um GitHub ?
+
+O primeiro passo para criarmos um conta no GitHub é acessar o seu site. Logo após abrir o site, clique sobre “Sign up” localizado no topo à direita. Após clicar sobre esta opção, o formulário estará disponível para que você possa inserir seus dados (nome de usuário, e-mail e senha).
+
+Adicionar um projeto ao GitHub via GitHub Desktop
+
+1- Usando a linha de comando, remova qualquer controle remoto do git atualmente configurado para o repositório.
+
+2- Adicione o repositório ao GitHub Desktop.
+
+3- Clique no botão Publish Repository (Publicar repositório) na barra de ferramentas.
+
+4- Digite o nome desejado do repositório no campo Name (Nome) ou use o nome padrão do repositório local.
+
+5- Para publicar um repositório público, desmarque a opção Keep this code private (Manter este código privado).
+
+6- Escolha a organização no menu suspenso Organization (Organização) onde você deseja publicar o repositório ou selecione None (Nenhum) para publicar o repositório na sua conta pessoal.
+
+7- Clique no botão Publish Repository (Publicar repositório).
+
+donwload git 
+
+https://git-scm.com/downloads
+
+
+
+ 
+
+
